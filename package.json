@@ -1,0 +1,16 @@
+{
+  "name": "playground-icedfrisby",
+  "version": "1.0.0",
+  "description": "Proving things work (or don't)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Caseley",
+  "license": "ISC",
+  "dependencies": {
+    "icedfrisby": "^1.5.0",
+    "joi": "^13.0.1",
+    "mocha": "^4.0.1"
+  }
+}
